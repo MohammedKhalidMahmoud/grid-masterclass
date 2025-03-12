@@ -28,3 +28,51 @@
 .text-modified-yellow{
     color: var(--modified-yellow);
 }
+
+.parent{
+    grid-template-areas: '';
+}
+
+.item1{
+    grid-area: header;
+}
+
+.tv-div{
+    background-color: #2c2c2c;
+}
+
+.laptop-div{
+    background-color: #93b6b7;
+}
+
+.keyboard-div{
+    background-color: #f05638;
+}
+.font-montessrat{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.font-arvo{
+    font-family: 'Arvo', serif;
+    
+}
+
+.font-open-sans{
+    font-family: 'Open Sans', sans-serif;
+  
+}
+
+.twitter-div{
+    background-color: #1da1f2;
+}
+.twitter-div .inner-circle{
+    background-color: #35cfed;
+}
+
+.floppy-div{
+    background-color: #8f76bc;
+}
+
+.floppy-div .inner-circle{
+    background-color: #8166b0;
+}
