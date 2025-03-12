@@ -29,14 +29,6 @@
     color: var(--modified-yellow);
 }
 
-.parent{
-    grid-template-areas: '';
-}
-
-.item1{
-    grid-area: header;
-}
-
 .tv-div{
     background-color: #2c2c2c;
 }
