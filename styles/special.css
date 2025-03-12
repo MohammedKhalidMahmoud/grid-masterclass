@@ -1,0 +1,30 @@
+:root{
+    --primary-color: #333;
+    --secondary-color: #9fa3a7;
+    --modified-teal: #27b9c2;
+    --modified-white: #fffbfb;
+    --modified-yellow: #ffc80a;
+}
+
+.bg-trial{
+    background-color:red;
+}
+.text-primary{
+    color: var(--primary-color);
+}
+
+.text-secondary{
+    color: var(--secondary-color);
+} 
+
+.text-modified-teal{
+    color: var(--modified-teal);
+} 
+
+.text-modified-white{
+    color: var(--modified-white);
+}
+ 
+.text-modified-yellow{
+    color: var(--modified-yellow);
+}
