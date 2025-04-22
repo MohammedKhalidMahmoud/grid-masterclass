@@ -9,7 +9,6 @@ Grid Master is a training project built using **pure HTML and CSS** to explore t
 ## 🚀 Features
 
 - Fully responsive layout
-- Built with semantic HTML
 - Clean and modern UI
 - Utilizes various CSS Grid features
 - No JavaScript or external libraries
@@ -33,11 +32,7 @@ Grid Master is a training project built using **pure HTML and CSS** to explore t
 
 ## 🌐 Live Demo
 
-If deployed: [Live Demo Here](#)
-
-## 📸 Screenshots
-
-> _(Add screenshots of your project here if you want)_
+Live Demo Here: https://mohammedkhalidmahmoud.github.io/grid-masterclass
 
 ## 📄 License
 
