@@ -17,8 +17,6 @@ Grid Master is a training project built using **pure HTML and CSS** to explore t
 
 - Setting up grids using `display: grid`
 - Using `grid-template-columns` and `grid-template-rows`
-- Grid item positioning (`grid-column`, `grid-row`)
-- Gap management (`row-gap`, `column-gap`, `gap`)
 - Media queries with grid layout
 - Aligning and justifying grid items
 
